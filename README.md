@@ -19,7 +19,7 @@ Telegram Webhook PHP
     "description": "Webhook was set"
 }
 ```
-Example usage Class TelegramBot
+Example WebHook.php
 --------------
 ```php
 require_once('Telegram.php');
